@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_m43_gl4_is">
- <title><term conkeyref="r_productname_variables/ph_companyname"/>
-  <term conkeyref="r_productname_variables/ph_prodname"/> features and
-  benefits</title>
+ <title>Features and benefits</title>
  <shortdesc><term conkeyref="r_productname_variables/ph_prodname"/> components work
   together to give you the advanced cluster management and reporting capabilities that you need
   within a large computing environment.</shortdesc>
