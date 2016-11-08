@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ud8_ak7_ws" xml:lang="en-us">
- <title>System diagnostics</title>
+ <title>System diagnostics test</title>
  <shortdesc>View analysis of cluster status and performance. The data views will indicate whether
   active clusters are performing as expected or not.</shortdesc>
  <prolog>
@@ -39,7 +39,10 @@
    
   <p id="p_pl5_x5m_mr">For each cluster module, a data view presents a graph depicting the clusters
       progress. Three different health indicators signal the current or future processing status:
-    </p>
+        <ul conref="c_attribute_parameter_syntax.dita#concept_k74_vr9_sa/ul_qrw_xdm_mr"
+        id="ul_r1r_f5q_wx">
+        <li/>
+      </ul></p>
     <table conref="r_mv_quickref_health_indicators.dita#reference_v38_gq7_fy/table_uw5_y24_mr"
       id="table_zfs_2ms_mr">
       <tgroup cols="cols_jwr_2ms_mr">
